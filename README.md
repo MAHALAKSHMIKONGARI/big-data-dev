@@ -1,7 +1,9 @@
 # Maha Lakshmi
 
 ## Current: 
-I am currently pursuing third semester of Masters in Applied Computer Science from Northwest Missouri State University.
+- I am currently pursuing third semester of Masters in Applied Computer Science from Northwest Missouri State University.
+- I have joined this university for Fall 2019.
+- As of now, I have completed two semesters.
 
 ## Background:
 - I am Hyderabad, India where I did my earlier part of education i.e., until Bachelors Degree. 
