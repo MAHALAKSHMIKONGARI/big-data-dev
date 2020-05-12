@@ -1,4 +1,4 @@
-# Maha_Lakshmi
+# Maha Lakshmi
 
 ## Current: 
 I am currently pursuing third semester of Masters in Applied Computer Science from Northwest Missouri State University.
@@ -18,3 +18,4 @@ I am currently pursuing third semester of Masters in Applied Computer Science fr
 - My Github Link : https://github.com/MAHALAKSHMIKONGARI
 
 
+![](https://github.com/MAHALAKSHMIKONGARI/big-data-dev/blob/master/pp.jpg?raw=true)
