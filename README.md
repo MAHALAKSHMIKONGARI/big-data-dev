@@ -9,7 +9,7 @@
 - I am Hyderabad, India where I did my earlier part of education i.e., until Bachelors Degree. 
 - I have pursued my Bachelors Degree in the Computer Science and Engineering stream. 
 - I don't have any prior experience working in the industry.
-- In enjoy listening to music, playing some games online and reading some blogs.
+- I enjoy listening to music, playing some games online and reading some blogs.
 
 ## Plans:
 - I am interested to work in the Dev-ops stream. 
