@@ -15,9 +15,14 @@
 - I am interested to work in the Dev-ops stream. 
 - Apart from that, I am also interested to choose my career as a web developer.
 
+## Skills:
+- From shell data processing, I have learnt to process the data such as sorting. 
+- I have also learned about the curl commands.
+
 ## Links:
 - My Linkedin Link : https://www.linkedin.com/in/mahalakshmi-kongari-7aaa04a7/
 - My Github Link : https://github.com/MAHALAKSHMIKONGARI
+- My shell data processing Repo Link : https://github.com/MAHALAKSHMIKONGARI/shell-data-processing
 
 
 ![](https://github.com/MAHALAKSHMIKONGARI/big-data-dev/blob/master/pp.jpg?raw=true)
